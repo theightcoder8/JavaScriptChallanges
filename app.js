@@ -1,3 +1,4 @@
+// CodeWars: Switch it Up!
 function switchItUp(number){
     //Write your own Code!
       switch(number) {
